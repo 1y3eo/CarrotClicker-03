@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 306d5454ec7d6864eb611359ab113e74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carrotManager: {instanceID: 0}
+  - bonusParticlePrefab: {fileID: 3204241128471387955, guid: fc4cca208cc24f7408f75fb8faab63df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
