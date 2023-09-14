@@ -38,6 +38,7 @@ public class InputManager : MonoBehaviour
         if (hit.collider == null)
             return;
 
+        Debug.Log("We hit a carrot !");
         onCarrotClicked?.Invoke();
         onCarrotClickedPosition?.Invoke(hit.point);
     }
